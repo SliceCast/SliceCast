@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Tou, a lot of you guys and other people know me as SliceCast. I am an android modder with the knowledge of C++ and less of Java. 👋
 
 <!--
 **SliceCast/SliceCast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
